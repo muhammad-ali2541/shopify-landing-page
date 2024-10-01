@@ -1,0 +1,1793 @@
+/*
+
+
+
+*  theme overwrite 
+
+
+
+=================================
+
+
+
+=================================
+
+
+
+=================================*/
+
+
+
+/**! ----- font family ---- **/
+
+
+
+body {
+
+
+
+  font-family: "Aileron", sans-serif, "Aileron", sans-serif;
+
+
+
+}
+
+
+
+
+
+
+
+h1,
+
+
+
+h2,
+
+
+
+h3,
+
+
+
+h4,
+
+
+
+h5,
+
+
+
+h6 {
+
+
+
+  font-family: "Aileron", sans-serif;
+
+
+
+}
+
+
+
+
+
+
+
+.blockquote {
+
+
+
+  font-family: "Noto Serif", serif;
+
+
+
+}
+
+
+
+
+
+
+
+/**! ----- colors ---- **/
+
+
+
+.bg-color-primary, .btn--bg-primary, .navbar-sticky--on .btn, .btn--bg-grey:hover, .btn--outline:hover, .btn--outline-thick:hover, .btn-border-hover.btn--color-white:before, .card--focused, .card--outline:hover, .card--outline:focus, .social-lists li a:hover, .media-player-icon--fill-primary, .oval, .slick-active .slick-dots--long, .pagination .page-item.active .page-link {
+
+
+
+  background: #2f5bea;
+
+
+
+}
+
+
+
+
+
+
+
+.color-primary, .hero-content .btn:hover .media-player-icon--fill-grey, .btn--bg-white:hover, .btn--color-primary, .btn--color-primary:hover, .btn--color-dark.btn-text-hover:hover, .btn--outline.btn--color-primary, .btn--outline-thick.btn--color-primary, .btn-text-hover:hover, .card--focused .btn__text, .lang-selector .lang-dropdown__item:focus, .lang-selector .lang-dropdown__item:hover, .icon-rounded .icon, .media-player-icon--fill-grey:hover, .btn:hover .media-player-icon--fill-grey i, .pagination .page-item .page-link:hover, .dropdown-item:focus, .dropdown-item:hover, .dropdown-item.active, .dropdown-item:active, .features--slider-2 .slick-arrow:hover i, .footer-widget ul li a:hover, .footer .nav li a:hover {
+
+
+
+  color: #2f5bea;
+
+
+
+}
+
+
+
+
+
+
+
+.features .swipe-tab.active-tab .swipe-tab__inner {
+
+
+
+  -webkit-box-shadow: 0px 2px 0px #2f5bea;
+
+
+
+          box-shadow: 0px 2px 0px #2f5bea;
+
+
+
+}
+
+
+
+
+
+
+
+.border-primary, .hr--blod, .btn--color-primary, .btn--color-dark.btn-text-hover:hover, .btn--outline:hover, .btn--outline-thick:hover, .btn-text-hover:hover {
+
+
+
+  border-color: #2f5bea;
+
+
+
+}
+
+
+
+.bg-fill-primary {
+
+
+
+  fill: #2f5bea;
+
+
+
+}
+
+
+
+
+
+
+
+/*! Place your custom styles here (below). 
+
+
+
+      This will make it much easier to update the template later - you'll only need to preserve "this file
+
+
+
+  ===================================================================================================*/
+
+
+
+
+
+
+
+.hero__title {
+
+
+
+  font-size: 44px;
+
+
+
+  line-height: 60px;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+.costom-margin {
+
+
+
+  margin-top: 11px;
+
+
+
+}
+
+
+
+
+
+
+
+.brand-logo {
+
+
+
+  margin-top: 15px;
+
+
+
+}
+
+
+
+
+
+
+
+.costom-style {
+
+
+
+  font-size: 21px;
+
+
+
+}
+
+
+
+
+
+
+
+.input-field {
+
+
+
+  height: 50px;
+
+
+
+  color: black !important;
+
+
+
+}
+
+
+
+
+
+
+
+.card-width {
+
+
+
+  width: 540px;
+
+
+
+  background-color: #F39C12 ;
+
+
+
+}
+
+
+
+
+
+
+
+#form {
+
+
+
+  background-image: url('bg.jpg');
+
+
+
+}
+
+
+
+#myForm {
+
+
+
+  margin-top: 30px;
+
+
+
+}
+
+
+
+.color {
+
+
+
+  color: black !important;
+
+
+
+  /*#F39C12*/
+
+
+
+}
+
+
+
+
+
+
+
+.btn_bg {
+
+
+
+  background-color: #F39C12
+
+
+
+}
+
+
+
+
+
+
+
+.btn__text {
+
+
+
+  color: black !important;
+
+
+
+  font-size: 20px;
+
+
+
+  margin-top: 0px;
+
+
+
+}
+
+
+
+
+
+
+
+.btn_bg_bottom {
+
+
+
+  /*background-color: #F39C12 !important;*/
+
+
+
+  background-color: #f96900 !important
+
+
+
+}
+
+
+
+
+
+
+
+.color-bottom {
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+.font {
+
+
+
+  font-size: 38px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.s-icon {
+
+
+
+  /*border: solid;*/
+
+
+
+  width: 30px;
+
+
+
+  text-align: center;
+
+
+
+  /*border-color:#F39C12 !important;*/
+
+
+
+  /*border-color: white !important;*/
+
+
+
+  /*color: #F39C12 !important; */
+
+
+
+  color: #273746 !important;
+
+
+
+  padding-right: 5px;
+
+
+
+}
+
+
+
+
+
+
+
+.footer {
+
+
+
+  background-color: black !important;
+
+
+
+}
+
+
+
+#form-icon-new{
+
+
+
+  margin-right: 2vw;
+
+
+
+  margin-left: 2vw;
+
+
+
+  margin-top: -20px;
+
+
+
+  width: 80%;
+
+
+
+  display: inline-block;
+
+
+
+  position: relative !important;
+
+
+
+}
+
+
+
+#icon-text-new{
+
+
+
+  position: relative;
+
+
+
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 768px){
+
+
+
+    .faq-footer{
+
+
+
+    text-align: center;
+
+
+
+  }
+
+
+
+  .card-width {
+
+
+
+    width: 100%;
+
+
+
+  }
+
+
+
+#form {
+
+
+
+  background-image: url('bg.jpg');
+
+
+
+}
+
+
+
+  .btn__text {
+
+
+
+  font-size: 13px;
+
+
+
+  }
+
+
+
+  .btn-width {
+
+
+
+  width: 250px;
+
+
+
+}
+
+
+
+
+
+
+
+.brand-logo  {
+
+
+
+  height: 50px;
+
+
+
+  margin-right: 90px;
+
+
+
+  margin-left: 90px;
+
+
+
+  margin-top: 1px;
+
+
+
+  }
+
+
+
+
+
+
+
+  .d-flex {
+
+
+
+    margin-left: 10px;
+
+
+
+  }
+
+
+
+  .color {
+
+
+
+    align-content: center;
+
+
+
+    
+
+
+
+  }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 320px){
+
+
+
+    .faq-footer{
+
+
+
+    text-align: center;
+
+
+
+  }
+
+
+
+    .card-width {
+
+
+
+      width: 100%;
+
+
+
+    }
+
+
+
+   
+
+
+
+    .btn__text {
+
+
+
+    font-size: 10px;
+
+
+
+    }
+
+
+
+    .btn-width {
+
+
+
+    width: 210px;
+
+
+
+  }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* .thanks-bg{
+
+
+
+  width: 100%;
+
+
+
+  height: 550px;
+
+
+
+  background-image: url(images/hero-bg.jpg);
+
+
+
+  background-position: center;
+
+
+
+  display: block; 
+
+
+
+  
+
+
+
+} */
+
+
+
+.thanks-bg {
+
+  width: 100%;
+  height: 550px;
+  margin: 0px !important;
+  background-image: url("assets/images/thank-u.jpg");
+  background-position: cover;
+  display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+a.decoration {
+  text-decoration: none;
+}
+
+
+
+
+
+
+#logo-img{
+
+
+
+  display: block;
+
+
+
+  margin-left: auto;
+
+
+
+  margin-right: auto;
+
+
+
+  padding-top: 6vh;
+
+
+
+  max-width: 20%; 
+
+
+
+}
+
+
+
+#icn{
+
+
+
+  display: block;
+
+
+
+  margin-left: auto;
+
+
+
+  margin-right: auto;
+
+
+
+  max-width: 6%;
+
+
+
+  margin-top: 8vh;
+
+
+
+}
+
+
+
+.thanks-inner{
+
+
+
+  width: 90%;
+
+
+
+  height: 565px;
+
+
+
+  background-color: white;  
+
+
+
+  margin: auto;
+
+
+
+  margin-top: -48vh;
+
+
+
+  box-shadow: 0 0 20px rgb(122, 122, 122);
+
+
+
+  overflow: hidden;
+
+
+
+}
+
+
+
+
+
+
+
+#thanks-text span{
+
+
+
+  font-weight: bolder;
+
+
+
+  font-family: lato;
+
+
+
+  font-size: 3.8em;
+
+
+
+}
+
+
+
+#thanks-text{
+
+
+
+  margin-top: 3vh;
+
+
+
+  text-align: center;
+
+
+
+  line-height: 30px;
+
+
+
+}
+
+
+
+#thanks-text-bottom{
+
+
+
+  font-family: lato;
+
+
+
+  margin-top: 10vh;
+
+
+
+  text-align: center;
+
+
+
+  font-weight: 500;
+
+
+
+  line-height: 35px;
+
+
+
+}
+
+
+
+#thanks-footer{
+
+
+
+  margin: auto;
+
+
+
+  margin-top: 11vh;
+
+
+
+  height: 32px;
+
+
+
+  width: 100%;
+
+
+
+  background-color: #28385e;
+
+
+
+  list-style: none;
+
+
+
+  color: white;
+
+
+
+  text-align: center;
+
+
+
+}
+
+
+
+#thanks-footer li{
+
+
+
+  display: inline;
+
+
+
+  font-family: lato;
+
+
+
+  font-size: 1.4em;
+
+
+
+  font-weight: 300;
+
+
+
+  vertical-align: middle !important;
+
+
+
+}
+
+
+
+.fa{
+
+
+
+  font-size: 1.4em;
+
+
+
+  /*color: #F39C12;*/
+
+
+
+  color: #fff !important;
+
+
+
+  vertical-align: middle;
+
+
+
+  padding-left: 8px;
+
+
+
+}
+
+
+
+
+
+
+
+li span{
+
+
+
+  vertical-align: middle;
+
+
+
+  padding-left: 8px;
+
+
+
+}
+
+
+
+@media (min-width: 1400px)  {
+
+
+
+
+
+
+
+    .faq-footer{
+
+
+
+    text-align: center;
+
+
+
+  }
+
+
+
+  
+
+
+
+  .thanks-inner{
+
+
+
+    position: inline;
+
+
+
+    width: 90%;
+
+
+
+    height: 75vh !important;
+
+
+
+    background-color: white;
+
+
+
+    margin: auto;
+
+
+
+    margin-top: -365px !important;
+
+
+
+    box-shadow: 0 0 20px rgb(122, 122, 122);
+
+
+
+    height: 100%;
+
+
+
+    overflow: hidden;
+
+
+
+  }
+
+
+
+  
+
+
+
+  #logo-img{
+
+
+
+    display: block;
+
+
+
+    margin-left: auto;
+
+
+
+    margin-right: auto;
+
+
+
+    padding-top: 3vh;
+
+
+
+    max-width: 20%; 
+
+
+
+  }
+
+
+
+}
+
+
+
+
+
+
+
+@media (min-width: 800px) and (max-width: 1280)  {
+
+
+
+
+
+
+
+    .faq-footer{
+
+
+
+    text-align: center;
+
+
+
+  }
+
+
+
+  
+
+
+
+  .thanks-inner{
+
+
+
+    width: 90%;
+
+
+
+    height: 75vh;
+
+
+
+    background-color: white;
+
+
+
+    margin: auto;
+
+
+
+    margin-top: -48vh;
+
+
+
+    box-shadow: 0 0 20px rgb(122, 122, 122);
+
+
+
+    overflow: hidden;
+
+
+
+  }
+
+
+
+  
+
+
+
+}
+
+
+
+@media (min-width: 600px) and (max-width: 780) {
+
+
+
+
+
+
+
+    .faq-footer{
+
+
+
+    text-align: center;
+
+
+
+  }
+
+
+
+  
+
+
+
+  .thanks-inner{
+
+
+
+    position: inline;
+
+
+
+    width: 90%;
+
+
+
+    height: 75vh;
+
+
+
+    background-color: white;
+
+
+
+    margin: auto;
+
+
+
+    margin-top: -25vh;
+
+
+
+    box-shadow: 0 0 20px rgb(122, 122, 122);
+
+
+
+    height: 100%;
+
+
+
+    overflow: hidden;
+
+
+
+  }
+
+
+
+
+
+
+
+  #logo-img{
+
+
+
+    display: block;
+
+
+
+    margin-left: auto;
+
+
+
+    margin-right: auto;
+
+
+
+    padding-top: 6vh;
+
+
+
+    max-width: 30%; 
+
+
+
+  }
+
+
+
+}
+
+
+
+
+
+
+
+@media (min-width: 200px) and (max-width: 480px) {
+
+
+
+
+
+
+
+  .faq-footer{
+
+
+
+    text-align: center;
+
+
+
+  }
+
+
+
+  
+
+
+
+  .thanks-bg{
+
+
+
+    width: 100%;
+
+
+
+    height: 72vh;
+
+
+
+  /* background-image: linear-gradient(to top, #FF6600, #F39C12);  */
+
+
+
+    background-position: center;
+
+
+
+    display: block; 
+
+
+
+    
+
+
+
+  }
+
+
+
+  
+
+
+
+  #logo-img{
+
+
+
+    display: block;
+
+
+
+    margin-left: auto;
+
+
+
+    margin-right: auto;
+
+
+
+    padding-top: 4vh;
+
+
+
+    max-width: 50%; 
+
+
+
+  }
+
+
+
+  #icn{
+
+
+
+    display: block;
+
+
+
+    margin-left: auto;
+
+
+
+    margin-right: auto;
+
+
+
+    max-width: 20%;
+
+
+
+    margin-top: 8vh;
+
+
+
+  }
+
+
+
+  .thanks-inner{
+
+
+
+    width: 90%;
+
+
+
+    height: 565px;
+
+
+
+    background-color: white;  
+
+
+
+    margin: auto;
+
+
+
+    margin-top: -55vh;
+
+
+
+    box-shadow: 0 0 20px rgb(122, 122, 122);
+
+
+
+    height: 100%;
+
+
+
+    overflow: hidden;
+
+
+
+  }
+
+
+
+  
+
+
+
+  #thanks-text span{
+
+
+
+    font-weight: bolder;
+
+
+
+    font-family: lato;
+
+
+
+    font-size: 1.8em;
+
+
+
+  }
+
+
+
+  #thanks-text{
+
+
+
+    margin-top: 3vh;
+
+
+
+    text-align: center;
+
+
+
+    line-height: 30px;
+
+
+
+  }
+
+
+
+  #thanks-text-bottom{
+
+
+
+    font-family: lato;
+
+
+
+    margin-top: 5vh;
+
+
+
+    text-align: center;
+
+
+
+    font-weight: 500;
+
+
+
+    line-height: 35px;
+
+
+
+    padding: 0px 15px 0 15px;
+
+
+
+  }
+
+
+
+  #thanks-footer{
+
+
+
+    margin: auto;
+
+
+
+    margin-top: 9vh;
+
+
+
+    height: 89px;
+
+
+
+    width: 100%;
+
+
+
+    background-color: #4D4D4D;
+
+
+
+    list-style: none;
+
+
+
+    color: white;
+
+
+
+    text-align: center;
+
+
+
+    
+
+
+
+  }
+
+
+
+  #thanks-footer li{
+
+
+
+    display: block;
+
+
+
+    font-family: lato;
+
+
+
+    font-size: 1.4em;
+
+
+
+    font-weight: 300;
+
+
+
+    vertical-align: middle !important;
+
+
+
+  }
+
+
+
+  .fa{
+
+
+
+    font-size: 1.4em;
+
+
+
+    color: #F39C12;
+
+
+
+    vertical-align: middle;
+
+
+
+    
+
+
+
+  }
+
+
+
+  .fa-phone-square{
+
+
+
+    margin-left: -15px;
+
+
+
+  }
+
+
+
+  
+
+
+
+  li span{
+
+
+
+    vertical-align: middle;
+
+
+
+    padding-left: 8px;
+
+
+
+  }
+
+
+
+  
+
+
+
+  
+
+
+
+}
+
+
+
+
+
+
+
+li {
+
+
+
+    list-style: none;
+
+
+
+    display: inline-block;
+
+
+
+    /*font-size: 20px;*/
+
+
+
+    padding: 5px 5px;
+
+
+
+   
+
+
+
+}
+
+
+
+
+
+
+
+.social-icon {
+
+
+
+  font-size: 30px;
+
+
+
+  color: #f96900 !important;
+
+
+
+  }
